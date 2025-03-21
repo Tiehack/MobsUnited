@@ -1,0 +1,48 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2018-12-31 00:07:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2018-12-31 00:07:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2018-12-31 00:07:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2018-12-31 00:07:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2018-12-30 23:51:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2018-12-31 00:07:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2018-12-31 00:10:35 -0700",
+      "minecraft:desert": "2018-12-31 00:08:10 -0700",
+      "minecraft:river": "2018-12-31 00:15:22 -0700",
+      "minecraft:wooded_hills": "2018-12-31 00:13:51 -0700",
+      "minecraft:plains": "2018-12-30 23:50:20 -0700"
+    },
+    "done": false
+  }
+}

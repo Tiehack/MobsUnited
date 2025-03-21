@@ -1,0 +1,81 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2018-12-17 14:43:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-17 14:43:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2018-12-17 14:43:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2018-12-17 14:37:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2018-12-17 14:42:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2018-12-17 14:43:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2018-12-17 14:42:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2018-12-17 14:43:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2018-12-17 14:42:13 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2018-12-17 14:43:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2018-12-17 14:42:21 -0700",
+      "minecraft:mountains": "2018-12-17 14:39:28 -0700",
+      "minecraft:mushroom_fields": "2018-12-17 14:43:04 -0700",
+      "minecraft:taiga": "2018-12-17 14:47:37 -0700",
+      "minecraft:desert": "2018-12-17 14:41:24 -0700",
+      "minecraft:birch_forest": "2018-12-17 14:46:04 -0700",
+      "minecraft:badlands": "2018-12-17 14:45:46 -0700",
+      "minecraft:beach": "2018-12-17 14:46:23 -0700",
+      "minecraft:river": "2018-12-17 14:39:59 -0700",
+      "minecraft:wooded_mountains": "2018-12-17 14:44:36 -0700",
+      "minecraft:wooded_hills": "2018-12-17 14:48:15 -0700",
+      "minecraft:swamp": "2018-12-17 14:39:55 -0700",
+      "minecraft:savanna": "2018-12-17 14:44:42 -0700",
+      "minecraft:plains": "2018-12-17 14:34:51 -0700"
+    },
+    "done": false
+  }
+}
